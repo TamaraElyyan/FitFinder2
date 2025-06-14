@@ -156,8 +156,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developer
 
-**Motaz Hashhoush**
-- GitHub: [@motaz-hashhoush](https://github.com/motaz-hashhoush)
+
 
 ## 🎯 Future Enhancements
 
